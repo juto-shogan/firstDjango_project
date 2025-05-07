@@ -1,0 +1,1 @@
+# fristDjango_project
